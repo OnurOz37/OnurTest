@@ -1,0 +1,42 @@
+
+    [
+      "Titre": "DEVELOPPER/FINANCER/ACCOMPAGNER",
+      "Filtres": "AUTEUR, EDITEUR, ETUDIANT, MEDIATEUR",
+      "Domaines": "Livre, Image",
+        {
+          "Name": "Financement d’un projet cinéma",
+          "Domaines": "IMAGE",
+          "Cibles": "AUTEUR, DEBUTANT",
+          "Node": "62238",
+          "Pôles": "IMAGE"
+        },
+        {
+          "Name": "Accompagner et soutenir un projet en librairie",
+          "Domaines": "LIVRE",
+          "Cibles": "LIBRAIRE",
+          "Node": "6635",
+          "Pôles": "LIVRE"
+        },
+        {
+          "Name": "Ressources professionnelles Livre",
+          "Domaines": "LIVRE",
+          "Cibles": "AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, EDITEUR, FESTIVAL, LIBRAIRE, MEDIATEUR, PARTICULIER",
+          "Node": "6315",
+          "Pôles": "LIVRE"
+        },
+        {
+          "Name": "Accompagner et soutenir une maison d'édition",
+          "Domaines": "LIVRE",
+          "Cibles": "EDITEUR",
+          "Node": "174",
+          "Pôles": "LIVRE"
+        },
+        {
+          "Name": "Accompagner et financer un accueil d'auteur",
+          "Domaines": "LIVRE",
+          "Cibles": "AUTEUR, BIBLIOTHEQUE/MEDIATHEQUE, COLLECTIVITE/INSTITUTION, ETABLISSEMENT SCOLAIRE, FESTIVAL, LIBRAIRE, LIEU CUTUREL, MEDIATEUR",
+          "Node": "172",
+          "Pôles": "LIVRE"
+        }
+      ]
+    

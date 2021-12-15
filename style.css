@@ -1,0 +1,68 @@
+body{
+    font-family:'PT Sans', sans-serif;
+}
+
+
+#main-div{
+    
+    margin: auto;
+    padding: 0 17%;
+}
+
+.cases{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    /* margin: 0 17%;*/
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+#getdata, #getdata-2, #getdata-3, #getdata-4{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    margin-bottom: 10px;
+    
+    
+
+    height: 100px;
+    width: 280px;
+
+
+}
+.active{
+    background-color: #f3eb06;
+    color: #000;
+}
+
+.inactive{
+    background-color: grey;
+    color: white;
+}
+
+
+th, td, p, input, h3 {
+    font:15px 'Segoe UI';
+}
+table, th, td {
+    border: solid 1px rgb(184, 20, 20);
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+    
+
+}
+th {
+    font-weight:bold;
+}
+#liste{
+    display: flex;
+    justify-content: center;
+    
+}
+#btn-reset{
+    padding: 2em 2em;
+    font: 1em sans-serif;
+}
