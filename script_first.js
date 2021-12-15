@@ -8,8 +8,8 @@ $("#getdata").click(function () {
             var input = document.getElementById("node").value;
             // if (objet.Clefs.indexOf("DEVELOPPER/FINANCER/ACCOMPAGNER")>-1){
 
-                let devFinAcc=objet.Clefs.value("DEVELOPPER/FINANCER/ACCOMPAGNER")
-                if (input=== devFinAcc) {
+            for (var i = 0; i < input.length; i++) {
+                if (input=== objet.Node) {
 
 
 
@@ -32,7 +32,7 @@ $("#getdata").click(function () {
                     column.append(cell7)
 
                     $("#liste").append(column)
-                
+                }
             }
 
 
